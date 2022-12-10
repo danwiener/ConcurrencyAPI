@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConcurrencyAPI", "ConcurrencyAPI.csproj", "{EB1DD238-0C58-41E3-B97D-D83399579936}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB1DD238-0C58-41E3-B97D-D83399579936}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB1DD238-0C58-41E3-B97D-D83399579936}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB1DD238-0C58-41E3-B97D-D83399579936}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB1DD238-0C58-41E3-B97D-D83399579936}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {129F29CB-0157-495B-ACA5-5351A8CD958D}
+	EndGlobalSection
+EndGlobal
